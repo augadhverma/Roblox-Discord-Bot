@@ -10,7 +10,7 @@ ___
 - Python 3.7 or later
 - [robloxapi](https://pypi.org/project/robloxapi/)
 
->⚠ Note: I highly suggest you to use the latest version of python available
+>ℹ️ Note: I highly suggest you to use the latest version of python available
 ___
 ## Installing and Setup
 
