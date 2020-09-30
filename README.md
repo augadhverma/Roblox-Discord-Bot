@@ -8,7 +8,8 @@ ___
 ## Requirements
 
 - Python 3.7 or later
-- [robloxapi](https://pypi.org/project/robloxapi/)
+- [robloxapi](https://pypi.org/project/robloxapi/) (pip install robloxapi)
+- requests (pip install requests)
 
 >ℹ️ Note: I highly suggest you to use the latest version of python available
 ___
