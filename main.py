@@ -32,7 +32,8 @@ TOKEN = "Your Bot Token"
 
 
 #----- ⚠ DONT CHANGE ANYTHING OR THE BOT WILL MOST LIKELY NOT WORK
-bot = commands.Bot(command_prefix= commands.when_mentioned_or(defaultprefix), case_insensitive=True, owner_ids=owner)
+intents = discord.Intents.all()
+bot = commands.Bot(command_prefix= commands.when_mentioned_or(defaultprefix), case_insensitive=True, owner_ids=owner, intents=intents)
 bot.remove_command('help')
 
 bot.launch_time = datetime.utcnow()
