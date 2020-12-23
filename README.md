@@ -1,6 +1,16 @@
 # Roblox-Discord Bot
 [![Support Server](https://cdn.discordapp.com/attachments/702180216533155936/748419162895810610/white_logo.png)](https://discord.gg/CTuUKJJ)
 
+## IMPORTANT NOTICE
+
+This project is now marked as archive. This has a lot of bad code, it is just here for people who need something of their own. I will probably make a new repo which will be more well coded.
+
+I am currently developing a discord bot for the label [DSCN](https://discord.gg/2NVgaEwd2J). The repo for the bot is public and can be found [here](https://github.com/Team-DSCN/DSCN-Bot).
+It has features such as a database and many other basic commands. It is still in development phase so there will be a lot of updates.
+
+If you ever want to contact me, I am always available at discord: [ItsArtemiz#8858](https://discord.com/users/449897807936225290)
+___
+
 ## About
 
 A self-hostable bot to manage your Roblox group from your Discord!
